@@ -73,9 +73,13 @@ You can find the latest APK in the [Releases](../../releases) section.
 
 ---
 
-## 📷 Screenshots
+## 📷 Screen Recording DEMO
 
-*(Add sample images of animated text, splash, transitions here)*
+
+
+https://github.com/user-attachments/assets/7e1ba879-8ac5-4752-88b5-55b9bd3bc62e
+
+
 
 ---
 
