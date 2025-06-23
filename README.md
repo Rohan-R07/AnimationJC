@@ -52,6 +52,7 @@ This app is designed to help practice and understand the most commonly used **Je
 - Managing animation state with Jetpack Compose
 - Implementing splash animations with letter Spacing effects
 - How to animate **text** creatively in Compose
+- Adding custom font fiile (.tff) and using it inside our application for custom splash screen 
 
 ---
 
@@ -61,6 +62,7 @@ This app is designed to help practice and understand the most commonly used **Je
 - **UI Framework:** Jetpack Compose
 - **Navigation:** Navigation 3 (alpha)
 - **Animations:** Compose Animation APIs
+- **CustomFonts:** Adding and using Custom fonts in our application 
 - **State:** Compose state + side effects
 
 ---
